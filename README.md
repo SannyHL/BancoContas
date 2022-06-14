@@ -1,5 +1,5 @@
 # Banco em Java
 
- * Nesse banco é possivel fazer, pix, depositos, transferencia e sacar.
+ * Nesse banco é possivel fazer, pix, depositos, transferência e sacar.
  ---------------------------------------------------------------------
- #ATENÇÃO: A cada transferencia há a taxa de 2,00.
+ #ATENÇÃO: A cada transferência há a taxa de 2,00.
